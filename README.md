@@ -1,5 +1,7 @@
 # Movie Search Web App 🎬
 
+![Movie Search Web App](https://github.com/Leonhard-Schwarz/freecodecamp-personal-portfolio-webpage/blob/c91033e13303620ae681b90241c5cbdacf92005b/images/movie-search-web-app-preview-1.png)
+
 This project is a movie search application built using React. Users can search for movies by entering a query, and the app will display the search results from the OMDB API. The app includes infinite scrolling functionality to load more search results as the user scrolls. Additionally, the app offers a light and dark mode based on user preferences.
 
 ## Features
